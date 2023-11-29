@@ -12,7 +12,7 @@ void taskFunc(void* arg)
 
 int main()
 {
-    // ¥¥Ω®œﬂ≥Ã≥ÿ
+    // Â≠òÂú®‰∏Ä‰∫õ‰∏≠Êñá‰π±Á†Å
     ThreadPool<int> pool (3, 10);
     for (int i = 0; i < 100; ++i)
     {
